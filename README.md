@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out some visuals at jackepner.com
+Check out some visuals at <a href=jackepner.com>jackepner.com</a>
 <!--
 **enlguy/enlguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
