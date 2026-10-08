@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out some visuals at <a href="https://jackepner.com">jackepner.com</a>
+My business site is <a href="https://hubprosper.com">here</a>
 <!--
 **enlguy/enlguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
