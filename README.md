@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of my work in the last two years are contained in private repos, as these are proprietary business products for RevOps and GTM engineering teams.  If interested in learning more, ping me.
+
 My business site is <a href="https://hubprosper.com">here</a>
 <!--
 **enlguy/enlguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
